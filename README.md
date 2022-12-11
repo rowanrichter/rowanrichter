@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Computer Science Student at Rollins College<br>I'm currently working on Scrum Master certification<br>I'm currently learning SQL and advanced Python<br>Fun Fact - I'm starting MBA in Fall 2023
+👨‍💻I am a Computer Science Student at Rollins College<br>📎I'm currently working on Scrum Master certification<br>🐍I'm currently learning SQL and advanced Python<br>👨‍💼Fun Fact - I'm starting MBA in Fall 2023
 
 
 ## 🌐 Socials:
