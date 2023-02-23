@@ -1,5 +1,6 @@
 # 💫 About Me:
-👨‍💻I'm a Computer Science student at Rollins College<br>💻I'm actively looking for Summer 2023 Internships<br>📲I'm working on a student social networking android mobile app for my CS capstone<br>🐍I'm currently advancing my Python and SQL skills<br>🏉I'm a Certified Scrum Master (CSM)<br>👨‍💼Fun Fact - I'm starting my MBA at Rollins in Fall 2023
+👨‍💻I'm a Computer Science student at Rollins College<br>
+💻I'm actively looking for Summer 2023 Internships<br>📲I'm working on a student social networking android mobile app for my CS capstone<br>🐍I'm currently advancing my Python and SQL skills<br>🏉I'm a Certified Scrum Master (CSM)<br>👨‍💼Fun Fact - I'm starting my MBA at Rollins in Fall 2023
 
 
 ## 🌐 Socials:
