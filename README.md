@@ -3,7 +3,7 @@
 📲I’m currently working on CampusLink Android Mobile App, check it [out!](https://github.com/Muse070/CampusLink_Rollins)                          
 🐍I'm currently advancing my Python and SQL skills<br>
 🏉I'm a Certified Scrum Master (CSM)<br>
-👨‍💼Fun Fact - MBA'25 Candidate at Crummer Graduate School of Business, expected concentration in business/data analytics
+👨‍💼Fun Fact - MBA'25 Candidate at Crummer Graduate School of Business, expected concentration in business analytics
 
 
 ## 🌐 Socials:
