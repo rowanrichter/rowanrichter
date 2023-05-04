@@ -3,7 +3,7 @@
 📲My Senior Capstone Project is CampusLink Android Mobile App, check it [out!](https://github.com/Muse070/CampusLink_Rollins)                          
 🐍I'm currently advancing my skills as a Data Analyst<br>
 🏉I'm a Certified Scrum Master (CSM)<br>
-👨‍💼Fun Fact - MBA'25 Candidate at Crummer Graduate School of Business, expected concentration in business analytics
+👨‍💼Fun Fact - MBA'25 Candidate at Crummer Graduate School of Business, Concentration - Business Analytics
 
 
 ## 🌐 Socials:
