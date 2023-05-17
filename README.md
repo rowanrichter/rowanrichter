@@ -1,7 +1,7 @@
 # 💫 About Me:
 👨‍💻I'm a Dual Degree Computer Science Undergraduate student and MBA'25 Candidate at Crummer Graduate School of Business<br>
 👨‍💼Expected Concentration in Business Analytics, Operations and Technology Management, or Finance<br>
-📲My Senior Capstone Project is CampusLink Android Mobile App, check it [out!](https://github.com/Muse070/CampusLink_Rollins) <br>                          
+📲My Senior Capstone Project is CampusLink Android Mobile App, check it [out!](https://github.com/Muse070/CampusLink_Rollins)                     
 🐍I'm currently advancing my skills as a Data Analyst<br>
 🏉Fun Fact - I'm a Certified Scrum Master (CSM)<br>
 
