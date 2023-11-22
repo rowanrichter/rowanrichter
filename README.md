@@ -2,7 +2,7 @@
 👨‍💻I'm a Computer Science Undergraduate student and MBA'25 Candidate at Crummer Graduate School of Business<br>
 👨‍💼My expected concentration is in Business Analytics, Operations and Technology Management, or Finance<br>
 📲My Senior Capstone Project is CampusLink Android Mobile App, check it [out!](https://github.com/Muse070/CampusLink_Rollins) 
-<br>🌱I'm a summer 2023 Data Analyst Intern at the US Environmental Protection Agency (EPA)<br>
+<br>🌱I was a summer 2023 Data Analyst Intern at the US Environmental Protection Agency (EPA)<br>
 🏉Fun Fact - I'm a Certified Scrum Master (CSM®)<br>
 
 
