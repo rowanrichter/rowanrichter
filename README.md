@@ -5,6 +5,8 @@
 <br>🌱I was a summer 2023 Data Analyst Intern at the US Environmental Protection Agency (EPA)<br>
 🏉Fun Fact - I'm a Certified Scrum Master (CSM®)<br>
 
+## Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rDakota&hide_progress=true)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rowanrichter) 
