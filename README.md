@@ -5,7 +5,7 @@
 <br>🌱I was a summer 2023 Data Analyst Intern at the US Environmental Protection Agency (EPA)<br>
 🏉Fun Fact - I'm a Certified Scrum Master (CSM®)<br>
 
-## Languages:
+## 💻 Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rDakota&hide_progress=true)
 
 ## 🌐 Socials:
