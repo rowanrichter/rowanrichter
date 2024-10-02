@@ -1,5 +1,6 @@
 # 💫 About Me:
-👨‍💻I have a Bachelor's in Computer Science and I'm an MBA'25 Candidate at Crummer Graduate School of Business with a concentration in Business Analytics<br>
+👨‍💻I have a Bachelor of Arts in Computer Science from Rollins College<br>
+💼I'm an MBA'25 Candidate at the Crummer Graduate School of Business with a concentration in Business Analytics<br>
 📲My Computer Science Senior Capstone Project is CampusLink Android Mobile App, check it [out!](https://github.com/Muse070/CampusLink_Rollins) <br>
 🏉Fun Fact - I love Data and I'm a Certified Scrum Master (CSM®)<br>
 
