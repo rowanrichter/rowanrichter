@@ -1,6 +1,6 @@
 # 💫 About Me:
 👨‍💻I'm a BA in Computer Science and MBA'25 Candidate at Crummer Graduate School of Business with a concentration in Business Analytics<br>
-📲My Computer Science Senior Capstone Project is CampusLink Android Mobile App, check it [out!](https://github.com/Muse070/CampusLink_Rollins) 
+📲My Computer Science Senior Capstone Project is CampusLink Android Mobile App, check it [out!](https://github.com/Muse070/CampusLink_Rollins) <br>
 🏉Fun Fact - I love Data and I'm a Certified Scrum Master (CSM®)<br>
 
 ## 💻 Languages:
