@@ -4,7 +4,7 @@
 🏉Fun Fact - I love Data and I'm a Certified Scrum Master (CSM®)<br>
 
 ## 💻 Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rDakota&hide_progress=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rowanrichter&hide_progress=true&theme=dark)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rowanrichter) 
